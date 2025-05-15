@@ -1,1 +1,1 @@
-# yoga_pose_Evaluation_system
+View the website at https://yoga-pose-detection-web-app.netlify.app
